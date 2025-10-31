@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivakrishna</h1>
-<h3 align="center">from India <br>Computer Science<br> Cyber securtiy</h3>
+<h3 align="center">from India <br>Computer Science<br> Cyber securtiy<br> Game Developer - Unity</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22bsk&label=Profile%20views&color=0e75b6&style=flat" alt="22bsk" /> </p>
 
 <h3 align="left">Connect with me:</h3>
